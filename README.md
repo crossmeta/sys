@@ -99,5 +99,5 @@ Crossmeta provides version 2 and 3 NFS server and client services over UDP proto
 
 ## Summary
 
-Crossmeta provides practival POSIX environment in Windows Environment that is easy to install and use and is available in very small memory footprint.
+Crossmeta provides practical POSIX environment in Windows Environment that is easy to install and use and is available in very small memory footprint.
 The common UNIX utilities are hard-linked files that is less than 300KB and the Crossmeta kernel driver is also under 300KB.
