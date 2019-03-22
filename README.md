@@ -1,4 +1,5 @@
 # Crossmeta BSD POSIX for Windows
+![crossmeta](https://www.crossmeta.io/wp-content/themes/allegiant/images/crossmeta-fs.jpg)
 
 Crossmeta provides BSD style POSIX file system operations to Windows programs using standard NT kernel interfaces.  In addition, it has support for fork/wait for process management, and more potential to offer other Unix-like environment. It has ash shell (Almquist shell) plus tiny versions of many common UNIX utilities, sed, awk, grep, and diff etc. Crossmeta provides all these within the standard Win32 subsystem in Windows NT, without segregation.
 
