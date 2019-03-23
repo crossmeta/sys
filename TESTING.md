@@ -1,5 +1,6 @@
   ## Regression Testing
   Crossmeta uses Connectathon test suite to verify basic POSIX compliant file system operations. Though the tests were orignially provided to verify NFS operations, it can also be used for testing filesystems other than NFS. 
+  It also uses its own busybox ash shell for running the regression.sh shell script!
   
   1. Install latest [Crossmeta Fuse](https://github.com/crossmeta/cxfuse/releases/latest) on *Windows Server 2016 build 14393*
   2. Start Crossmeta drivers 
